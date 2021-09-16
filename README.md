@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (4º Semestre)
 - 👨‍💻 Futuro Front-end ✌😉
-- 📫 Contate-me no email: leandro00023@hotmail.com
+- 📫 Contato: leandro00023@hotmail.com
 
 <div>
     <a href="https://github.com/Leandro00023">
