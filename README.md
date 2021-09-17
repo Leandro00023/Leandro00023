@@ -1,4 +1,4 @@
-### Olá, meu nome é Leandro Henrique 👋
+### Olá, meu nome é Leandro Henrique 🖖
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (4º Semestre)
 - 👨‍💻 Futuro Front-end ✌😉
