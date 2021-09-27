@@ -31,8 +31,6 @@ src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript
 <div> 
   <a href="https://www.linkedin.com/in/leandrohls/" target="-blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="-blank"></a> 
 
- 	<!-- <a href="mailto:leandro00023@hotmail.com" target="-blank"><img src="https://img.shields.io/badge/Microsoft_Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="-blank"></a> -->
-
   <!--![Snake animation](https://github.com/Leandro00023/Leandro00023/blob/output/github-contribution-grid-snake.svg)-->
 </div>
 
