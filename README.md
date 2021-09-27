@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (4º Semestre)
 - 👨‍💻 Futuro Front-end ✌😉
-- 📫 Contato: https://www.linkedin.com/in/leandro-henrique-lopes-sampaio/
+- 📫 Contato: https://www.linkedin.com/in/leandrohls/
 
 <div>
     <a href="https://github.com/Leandro00023">
