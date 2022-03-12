@@ -1,6 +1,6 @@
 ### Olá, meu nome é Leandro Henrique 🖖
-- 👨‍💻 Estagiário de desenvolvimento web | Prodemge
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (4º Semestre)
+- 👨‍💻 Estagiário de desenvolvimento | Prodemge
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (5º Semestre)
 - 📫 Contato: https://www.linkedin.com/in/leandrohls/
 
 <div>
