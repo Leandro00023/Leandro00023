@@ -1,6 +1,7 @@
 ### Olá, meu nome é Leandro Henrique 🖖
-- 👨‍💻 Estagiário de desenvolvimento | Prodemge
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (5º Semestre)
+- 👨‍💻 Analista de implantação | LIGA Sistemas
+- 🎓 CST: Análise e Desenvolvimento de Sistemas
+- 🎓 Pós graduação:  Business intelligence, big data e analytics - ciência de dados
 - 📫 Contato: https://www.linkedin.com/in/leandrohls/
 
 <div>
